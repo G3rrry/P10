@@ -1,3 +1,5 @@
+-- SQL script para crear la base de datos y la tabla 'libros' sin datos iniciales
+
 -- Crear la base de datos si no existe
 CREATE DATABASE IF NOT EXISTS libreria;
 
